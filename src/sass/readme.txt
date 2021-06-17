@@ -1,0 +1,1 @@
+Normally the global stylings are defined in this folder. (e.g. typography, grid-system, ...) 
